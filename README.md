@@ -1,1 +1,1 @@
-# companion-module-ip2sl
+# companion-module-gc-itac-sl
