@@ -97,8 +97,7 @@ instance.prototype.actions = function(system) {
 				{
 					 type:    'textinput',
 					 label:   'Text String',
-					 id:      'sl',
-					 default: 'put command here'
+					 id:      'sl'
 				}
 			]
 	}
