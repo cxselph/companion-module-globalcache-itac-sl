@@ -1,1 +1,1 @@
-# companion-module-gc-itac-sl
+# companion-module-globalcache-itac-sl
