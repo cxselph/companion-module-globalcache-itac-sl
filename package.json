@@ -1,6 +1,6 @@
 {
   "name": "globalcache-itac-sl",
-  "version": "0.0.1",
+  "version": "1.2.0",
   "description": "Module to control devices through a Global Cache iTac IP2SL serial interface.",
   "main": "index.js",
   "scripts": {
